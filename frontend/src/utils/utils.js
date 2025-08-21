@@ -1,1 +1,1 @@
-export const BACKEND_URL = "http://localhost:5002/api/v1";
+export const BACKEND_URL = "https://openai-clone-mrx9.onrender.com";
