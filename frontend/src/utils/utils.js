@@ -1,1 +1,1 @@
-export const BACKEND_URL = "https://openai-clone-mrx9.onrender.com";
+export const BACKEND_URL = "https://openai-clone-mrx9.onrender.com/api/v1";
