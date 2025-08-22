@@ -18,6 +18,7 @@ app.use(cookieParser());
 const allowedOrigins = [
   process.env.FRONTEND_URL,
   "https://openai-clone-mrx9.onrender.com",
+  "https://openai-clone-mppk.vercel.app",
 ];
 
 app.use(
